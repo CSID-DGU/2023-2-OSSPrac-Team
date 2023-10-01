@@ -4,4 +4,4 @@ OSS Practice Team Activities
 MLAC
 Machine Learnin Access Control
 
-MLAC example
+Machine Learning Acces Control example
